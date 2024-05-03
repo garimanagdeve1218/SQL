@@ -1,0 +1,8 @@
+//to create a database named college 
+CREATE DATABASE COLLEGE;
+
+//to select this database college to use further
+USE COLLEGE;
+
+//to delete the existing database college
+DROP DATABASE COLLEGE;
